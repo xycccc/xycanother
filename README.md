@@ -21,8 +21,9 @@ Pygame
 Anaconda3 python3.7
 
 ## 系统架构/关键技术
-pygame包里的image模块（用于图像传输）
-pygame包里的rect对象（用于存储和操作矩形区域）
+```
+import sys, time, pygame
+```
 
 ## 使用的方法/资源  
 制作人物移动的动画参考：
